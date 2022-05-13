@@ -12,6 +12,10 @@ Clicking on the button in the top left of the page starts the animation.
 
 Download index.html, styles.css and mapanimation.js files by clicking the green code button. Make sure to save them to the same directory on your computer. Load the index.html file into your browser. Press the button to see the marker move along the route from MIT to Boston Common.
 
+You can also interact with the page without having to download the files. 
+
+<a href="https://leahselig.github.io/RealTimeBusTracker/"> Try It Out Here! </a>
+
 ## Roadmap
 
 - [ ] Add additional layers to change between different views like on google maps
